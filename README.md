@@ -18,3 +18,4 @@ https://react-js-full-course.vercel.app/
 * TMDB API;
 * AppWrite Backend Platform;
     * Appwrite Databases;
+* Vercel;
